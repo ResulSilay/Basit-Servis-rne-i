@@ -1,0 +1,11 @@
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\Servis\IlanServis\IlanWeb\obj\Debug\netcoreapp2.0\IlanWeb.csprojAssemblyReference.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\Servis\IlanServis\IlanWeb\obj\Debug\netcoreapp2.0\IlanWeb.csproj.CoreCompileInputs.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\Servis\IlanServis\IlanWeb\obj\Debug\netcoreapp2.0\IlanWeb.AssemblyInfoInputs.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\Servis\IlanServis\IlanWeb\obj\Debug\netcoreapp2.0\IlanWeb.AssemblyInfo.cs
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\Servis\IlanServis\IlanWeb\bin\Debug\netcoreapp2.0\IlanWeb.deps.json
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\Servis\IlanServis\IlanWeb\bin\Debug\netcoreapp2.0\IlanWeb.runtimeconfig.json
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\Servis\IlanServis\IlanWeb\bin\Debug\netcoreapp2.0\IlanWeb.runtimeconfig.dev.json
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\Servis\IlanServis\IlanWeb\bin\Debug\netcoreapp2.0\IlanWeb.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\Servis\IlanServis\IlanWeb\bin\Debug\netcoreapp2.0\IlanWeb.pdb
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\Servis\IlanServis\IlanWeb\obj\Debug\netcoreapp2.0\IlanWeb.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\Servis\IlanServis\IlanWeb\obj\Debug\netcoreapp2.0\IlanWeb.pdb
